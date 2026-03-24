@@ -1,0 +1,903 @@
+civil-engineering-chennai.faculty_count: 42
+civil-engineering-chennai.faculty_names[0]: Dr. Karthikeyan K
+civil-engineering-chennai.faculty_names[1]: Ms. Ajila Hexil S
+civil-engineering-chennai.faculty_names[2]: Dr. Yamini Sreevalli I
+civil-engineering-chennai.faculty_names[3]: Dr. Vasugi V
+civil-engineering-chennai.faculty_names[4]: Ms. Vinitha M
+civil-engineering-chennai.faculty_names[5]: Dr. Helen Santhi M
+civil-engineering-chennai.faculty_names[6]: Mr. Sheik Imam
+civil-engineering-chennai.faculty_names[7]: Mr. Vignesh M
+civil-engineering-chennai.faculty_names[8]: Dr. Senthilpandian M
+civil-engineering-chennai.faculty_names[9]: Dr. Shanmuga Sundaram
+civil-engineering-chennai.faculty_names[10]: Mr. Sivayogaraj
+civil-engineering-chennai.faculty_names[11]: Ms. Hammadhu Rukiya Jalva H
+civil-engineering-chennai.faculty_names[12]: Ms. Hema A
+civil-engineering-chennai.faculty_names[13]: Ms. Olive Sharon R P
+civil-engineering-chennai.faculty_names[14]: Ms. Narmada R
+civil-engineering-chennai.faculty_names[15]: Mr. Vignesh M
+civil-engineering-chennai.faculty_names[16]: Dr. Anjali Gopakumar
+civil-engineering-chennai.faculty_names[17]: Ms. Namitha Raveendran
+civil-engineering-chennai.faculty_names[18]: Dr. Elavenil S
+civil-engineering-chennai.faculty_names[19]: Dr. David A Stone
+civil-engineering-chennai.faculty_names[20]: Dr. Vasugi K
+civil-engineering-chennai.faculty_names[21]: Mr. Balakumar N
+civil-engineering-chennai.faculty_names[22]: Ms. G Ragha Dharini
+civil-engineering-chennai.faculty_names[23]: Dr. Mohan K
+civil-engineering-chennai.faculty_names[24]: Ms. Bhavana Balachandran
+civil-engineering-chennai.faculty_names[25]: Mr. Joseph Gnanaraj
+civil-engineering-chennai.faculty_names[26]: Dr. Palanivelu K
+civil-engineering-chennai.faculty_names[27]: Ms. Saranya V
+civil-engineering-chennai.faculty_names[28]: Mr. Hari Manoj N
+civil-engineering-chennai.faculty_names[29]: Dr. Saravanan K
+civil-engineering-chennai.faculty_names[30]: Ms. Jayapriya N
+civil-engineering-chennai.faculty_names[31]: Mr. Roobankumar R
+civil-engineering-chennai.faculty_names[32]: Ms. Chandralega
+civil-engineering-chennai.faculty_names[33]: Ms. Rani
+civil-engineering-chennai.faculty_names[34]: Mr. Loganathan G
+civil-engineering-chennai.faculty_names[35]: Mr. Venkatesh
+civil-engineering-chennai.faculty_names[36]: Mr. Hemanth Kumar A
+civil-engineering-chennai.faculty_names[37]: Dr. Arun Kumar A
+civil-engineering-chennai.faculty_names[38]: Dr. Sabumon P C
+civil-engineering-chennai.faculty_names[39]: Dr. Karthiyaini S
+civil-engineering-chennai.faculty_names[40]: Dr. Venkadavarahan M
+civil-engineering-chennai.faculty_names[41]: Ms. Aishwariya R P
+sense.faculty_count: 201
+sense.faculty_names[0]: Ms. Saraswathy B
+sense.faculty_names[1]: Ms. Antoni Gracy G
+sense.faculty_names[2]: Dr. Sheena Christabel Pravin
+sense.faculty_names[3]: Dr. Jagannath M
+sense.faculty_names[4]: Prof. Sravani M M
+sense.faculty_names[5]: Mr. Rakesh J
+sense.faculty_names[6]: Ms. Manisha R
+sense.faculty_names[7]: Dr. Manikandan P
+sense.faculty_names[8]: Dr. Richards Joe Stanislaus
+sense.faculty_names[9]: Ms. Priya P
+sense.faculty_names[10]: Dr. Suman Saha
+sense.faculty_names[11]: Dr. Anisha Natarajan
+sense.faculty_names[12]: Dr. Anita Angeline A
+sense.faculty_names[13]: Dr. Ashis Tripathy
+sense.faculty_names[14]: Mr. Ashwin J S
+sense.faculty_names[15]: Ms. Brighty Ebenezer L
+sense.faculty_names[16]: Dr. Biswajit Jena
+sense.faculty_names[17]: Dr. Shoba S
+sense.faculty_names[18]: Dr. Manikandan E
+sense.faculty_names[19]: Dr. Usha Rani S
+sense.faculty_names[20]: Dr. Rahul Narasimhan A
+sense.faculty_names[21]: Ms. Aishwarya Karthikeyan
+sense.faculty_names[22]: Dr. Kalaivanan K
+sense.faculty_names[23]: Dr. Saravana Kumar R
+sense.faculty_names[24]: Dr. Suhasini S
+sense.faculty_names[25]: Dr. Pritam Bhattacharjee
+sense.faculty_names[26]: Dr. Lakshmi Priya G
+sense.faculty_names[27]: Dr. Reena Monica P
+sense.faculty_names[28]: Dr. Upender P
+sense.faculty_names[29]: Dr. Soumya Ranjan Mahapatro
+sense.faculty_names[30]: Dr. Ravi Tiwari
+sense.faculty_names[31]: Dr. Augusta Sophy Beulet P
+sense.faculty_names[32]: Ms. Lily Saron Grace
+sense.faculty_names[33]: Dr. Dheeren Ku Mahapatra
+sense.faculty_names[34]: Dr. Umadevi S
+sense.faculty_names[35]: Dr.Chandramauleshwar Roy
+sense.faculty_names[36]: Dr. Nitish Katal
+sense.faculty_names[37]: Dr. Berlin Hency V
+sense.faculty_names[38]: Mr. Rajesh K
+sense.faculty_names[39]: Dr. Prakash.V
+sense.faculty_names[40]: Dr. Sasipriya P
+sense.faculty_names[41]: Dr. Rohith G
+sense.faculty_names[42]: Dr. Saranya Nair M
+sense.faculty_names[43]: Dr. Suganthi K
+sense.faculty_names[44]: Dr. Ananiah Durai S
+sense.faculty_names[45]: Dr. Bala Murugan M S
+sense.faculty_names[46]: Dr. Mohammed Aarif K O
+sense.faculty_names[47]: Mr. Praveen Kumar Barik
+sense.faculty_names[48]: Prof. Chrishia Christudhas
+sense.faculty_names[49]: Dr. Subhashini N
+sense.faculty_names[50]: Dr. Brintha Therese A
+sense.faculty_names[51]: Dr. Ramesh R
+sense.faculty_names[52]: Dr. Vetrivelan P
+sense.faculty_names[53]: Dr. Chanthini Baskar
+sense.faculty_names[54]: Dr. Girija Shankar Sahoo
+sense.faculty_names[55]: Dr. Srivatsan K
+sense.faculty_names[56]: Prof. Ralph Samuel Thangaraj
+sense.faculty_names[57]: Ms. GOWDHAMI D
+sense.faculty_names[58]: Dr. Hemanth C
+sense.faculty_names[59]: Dr. Annis Fathima A
+sense.faculty_names[60]: Ms. Abirami N
+sense.faculty_names[61]: Dr. Prasad Jones Christy Dass S
+sense.faculty_names[62]: Ms. Nandhini C
+sense.faculty_names[63]: Mr. Sivasankar S
+sense.faculty_names[64]: Ms. Persiya J
+sense.faculty_names[65]: Ms. Gowthami A
+sense.faculty_names[66]: Ms. KARPAGAM T V
+sense.faculty_names[67]: Mr. Tamilvanan S
+sense.faculty_names[68]: Ms. Usha S
+sense.faculty_names[69]: Dr. Anith Nelleri
+sense.faculty_names[70]: Dr. Idayachandran G
+sense.faculty_names[71]: Dr. Chitra K
+sense.faculty_names[72]: Dr. Vijayakumar Peroumal
+sense.faculty_names[73]: Dr. Ranjeet Kumar
+sense.faculty_names[74]: Dr. Kiruthika V
+sense.faculty_names[75]: Dr. Saurav Gupta
+sense.faculty_names[76]: Ms. Abida Begum S
+sense.faculty_names[77]: Ms. Niranjala M
+sense.faculty_names[78]: Mr. Rajasekar M
+sense.faculty_names[79]: Dr. John Sahaya Rani Alex
+sense.faculty_names[80]: Dr. Sathya Sree J
+sense.faculty_names[81]: Dr. Sasithradevi. A
+sense.faculty_names[82]: Dr. Mohanaprasad K
+sense.faculty_names[83]: Dr. Sourabh Paul
+sense.faculty_names[84]: Dr. Manmohan Sharma
+sense.faculty_names[85]: Dr. Niraj Kumar
+sense.faculty_names[86]: Dr. Abraham Sudharson Ponraj
+sense.faculty_names[87]: Dr. Jean Jenifer Nesam J
+sense.faculty_names[88]: Dr. Ravi Sankar A
+sense.faculty_names[89]: Dr. Ravi Prakash Dwivedi
+sense.faculty_names[90]: Dr. Nirmala P
+sense.faculty_names[91]: Dr. Sindhuja. M
+sense.faculty_names[92]: Ms. Dhivya Bharathi R
+sense.faculty_names[93]: Prof. Soni Ishwarya V
+sense.faculty_names[94]: Dr. Sunil Kumar Pradhan
+sense.faculty_names[95]: Dr. Bibhuti Bhusan Pradhan
+sense.faculty_names[96]: Dr. Sankar Ganesh S
+sense.faculty_names[97]: Dr. Sudhakaran G
+sense.faculty_names[98]: Dr. Sivakumar S
+sense.faculty_names[99]: Dr. Prasanna Bharathi S
+sense.faculty_names[100]: Dr. Sakthivel S M
+sense.faculty_names[101]: Ms. Anna Latha M
+sense.faculty_names[102]: Dr. Abhijit Mishra
+sense.faculty_names[103]: Prof. Satheesh Kumar T
+sense.faculty_names[104]: Dr. Ashok Mondal
+sense.faculty_names[105]: Prof. Shaik Ahmadsaidulu
+sense.faculty_names[106]: Dr. Markkandan S
+sense.faculty_names[107]: Dr. Chandrasekaran N
+sense.faculty_names[108]: Ms. Lakshmi S
+sense.faculty_names[109]: Dr. Velmathi G
+sense.faculty_names[110]: Dr. Praveen Jaraut
+sense.faculty_names[111]: Ms. Vasundhara Sandi
+sense.faculty_names[112]: Dr. Sukriti
+sense.faculty_names[113]: Ms. Esakkiammal G
+sense.faculty_names[114]: Dr. Logesh R
+sense.faculty_names[115]: Dr. Balaji V.R
+sense.faculty_names[116]: Ms. Priyadharshini S
+sense.faculty_names[117]: Mr. Ranjith Kumar T
+sense.faculty_names[118]: Dr. Manoj Kumar R
+sense.faculty_names[119]: Ms. Muthulakshmi
+sense.faculty_names[120]: Dr. Latha P
+sense.faculty_names[121]: Dr. Sritama Roy
+sense.faculty_names[122]: Mr. Deepak S
+sense.faculty_names[123]: Dr. Jaya Vignesh T
+sense.faculty_names[124]: Dr. Dhanush R
+sense.faculty_names[125]: Dr. Sekar Sathiya Narayanan
+sense.faculty_names[126]: Dr. Jeetashree Aparajeeta
+sense.faculty_names[127]: Prof. Gowri Ushakumari Prasood
+sense.faculty_names[128]: Ms. Roshan Shafeeha M
+sense.faculty_names[129]: Mr. Jenkins Albert
+sense.faculty_names[130]: Mr. Srinivasan R
+sense.faculty_names[131]: Dr. Usha Kiran Kommuri
+sense.faculty_names[132]: Ms. Devi M
+sense.faculty_names[133]: Dr. Bindu B
+sense.faculty_names[134]: Dr. Thiripurasundari D
+sense.faculty_names[135]: Dr. Akash Kumar Pradhan
+sense.faculty_names[136]: Prof. Deepa Mohan
+sense.faculty_names[137]: Mr. Akash Vijayan
+sense.faculty_names[138]: Dr. Vijayarajan R
+sense.faculty_names[139]: Prof. Divya J
+sense.faculty_names[140]: Ms. Josephin
+sense.faculty_names[141]: Dr. Sofana Reka S
+sense.faculty_names[142]: Dr. Papanasam E
+sense.faculty_names[143]: Dr. Selvendran S
+sense.faculty_names[144]: Prof. Pugazhenthi R
+sense.faculty_names[145]: Ms. Manjula M
+sense.faculty_names[146]: Dr. Balakrishnan R
+sense.faculty_names[147]: Dr. Nagajayanthi B
+sense.faculty_names[148]: Dr. Tanmoy Majumder
+sense.faculty_names[149]: Dr. Bharathi Sankar A
+sense.faculty_names[150]: Dr. Guga Priya G
+sense.faculty_names[151]: Ms. Chanda Bhalchandra Rajurkar
+sense.faculty_names[152]: Dr. Prashanth Kumar B
+sense.faculty_names[153]: Dr. Manigandan M
+sense.faculty_names[154]: Ms. Dheepa
+sense.faculty_names[155]: Ms. Amutha K
+sense.faculty_names[156]: Ms. INBARANI J
+sense.faculty_names[157]: Ms. Manisha Pandey
+sense.faculty_names[158]: Ms. Dharani N
+sense.faculty_names[159]: Ms. Neeraja K S
+sense.faculty_names[160]: Prof. Sharon Giftsy
+sense.faculty_names[161]: Dr. Vydeki D
+sense.faculty_names[162]: Dr. Muthulakshmi S
+sense.faculty_names[163]: Ms. Tamilarasi S
+sense.faculty_names[164]: Dr. Prathiba A
+sense.faculty_names[165]: Dr. Amit Kumar
+sense.faculty_names[166]: Dr. Revathi S
+sense.faculty_names[167]: Dr. Priyanka Das
+sense.faculty_names[168]: Ms. Poorna Sundari M
+sense.faculty_names[169]: Dr. Gargi Raina
+sense.faculty_names[170]: Dr. Saurabh Kumar Srivastava
+sense.faculty_names[171]: Mr. Anandan R
+sense.faculty_names[172]: Dr. Sivasubramanian A
+sense.faculty_names[173]: Dr. Sridhar C
+sense.faculty_names[174]: Prof. Sunkara Pavani
+sense.faculty_names[175]: Dr. Ravi V
+sense.faculty_names[176]: Ms. Malini M
+sense.faculty_names[177]: Dr. Md Sadullah
+sense.faculty_names[178]: Ms. Ramya J
+sense.faculty_names[179]: Dr. Ilavarasan T
+sense.faculty_names[180]: Mr. Premanand S
+sense.faculty_names[181]: Prof. Jacily Jemila Savarimuthu
+sense.faculty_names[182]: Dr. Raju Patel
+sense.faculty_names[183]: Prof. Surya Prasath C
+sense.faculty_names[184]: Dr. Karthikeyan P R
+sense.faculty_names[185]: Ms. Sugunapriya A
+sense.faculty_names[186]: Dr. Hariharan I
+sense.faculty_names[187]: Ms. Aishwarya T
+sense.faculty_names[188]: Dr. Kiran Kumar M
+sense.faculty_names[189]: Dr. Manimaran P
+sense.faculty_names[190]: Dr. Lakshmi B
+sense.faculty_names[191]: Dr. Suchetha M
+sense.faculty_names[192]: Ms. Krithika alias Anbu Devi M
+sense.faculty_names[193]: Dr. Karthik R
+sense.faculty_names[194]: Dr. Sangeetha R G
+sense.faculty_names[195]: Ms. Selvasundari S
+sense.faculty_names[196]: Dr. Vigneswaran T
+sense.faculty_names[197]: Ms. Vaishnavi
+sense.faculty_names[198]: Dr. Florence Gnana Poovathy J
+sense.faculty_names[199]: Dr. Arivarasi A
+sense.faculty_names[200]: Dr. Kuldeep Yadav
+computer-science-engineering-chennai.faculty_count: 348
+computer-science-engineering-chennai.faculty_names[0]: Dr. Shridevi S
+computer-science-engineering-chennai.faculty_names[1]: Dr. Monica K M
+computer-science-engineering-chennai.faculty_names[2]: Dr. Sakthivel R
+computer-science-engineering-chennai.faculty_names[3]: Mr. Haris R
+computer-science-engineering-chennai.faculty_names[4]: Dr. Bharadwaja Kumar G
+computer-science-engineering-chennai.faculty_names[5]: Dr. Malathi D
+computer-science-engineering-chennai.faculty_names[6]: Prof. Deepika R
+computer-science-engineering-chennai.faculty_names[7]: Dr. Kumaran K
+computer-science-engineering-chennai.faculty_names[8]: Ms. Vijaya Lakshmi N
+computer-science-engineering-chennai.faculty_names[9]: Dr. Rolla Subrahmanyam
+computer-science-engineering-chennai.faculty_names[10]: Dr. Elakya R
+computer-science-engineering-chennai.faculty_names[11]: Dr. Jothi R
+computer-science-engineering-chennai.faculty_names[12]: Dr. Valarmathi K
+computer-science-engineering-chennai.faculty_names[13]: Prof. Priyanka Mishra
+computer-science-engineering-chennai.faculty_names[14]: Dr. Logeswari G
+computer-science-engineering-chennai.faculty_names[15]: Dr. Ilavarasi A K
+computer-science-engineering-chennai.faculty_names[16]: Dr. Bhavadharini R M
+computer-science-engineering-chennai.faculty_names[17]: Dr. Kavitha J C
+computer-science-engineering-chennai.faculty_names[18]: Dr. Uma Maheswari K
+computer-science-engineering-chennai.faculty_names[19]: Dr. Umitty Srinivasa Rao
+computer-science-engineering-chennai.faculty_names[20]: Dr. Anubha Pearline S
+computer-science-engineering-chennai.faculty_names[21]: Dr. Deepika Roselind J
+computer-science-engineering-chennai.faculty_names[22]: Dr. Ganesh N
+computer-science-engineering-chennai.faculty_names[23]: Dr. Devi K
+computer-science-engineering-chennai.faculty_names[24]: Dr. Ashoka Rajan R
+computer-science-engineering-chennai.faculty_names[25]: Prof. Pankaja Lakshmi P
+computer-science-engineering-chennai.faculty_names[26]: Dr. Alok Chauhan
+computer-science-engineering-chennai.faculty_names[27]: Prof. Ramesh Kannan R
+computer-science-engineering-chennai.faculty_names[28]: Dr. Prasad M
+computer-science-engineering-chennai.faculty_names[29]: Prof. Khadar Nawas K
+computer-science-engineering-chennai.faculty_names[30]: Mr. Kishore Kumar G S
+computer-science-engineering-chennai.faculty_names[31]: Dr. Manimegalai T
+computer-science-engineering-chennai.faculty_names[32]: Dr.Sendhil R
+computer-science-engineering-chennai.faculty_names[33]: Dr. Praveen Joe I R
+computer-science-engineering-chennai.faculty_names[34]: Dr. Suseela S
+computer-science-engineering-chennai.faculty_names[35]: Mr. Bezaleel S
+computer-science-engineering-chennai.faculty_names[36]: Dr. Ganala Santoshi
+computer-science-engineering-chennai.faculty_names[37]: Dr. Srisakthi Saravanan
+computer-science-engineering-chennai.faculty_names[38]: Dr. Pradeep K
+computer-science-engineering-chennai.faculty_names[39]: Dr. Kavipriya G
+computer-science-engineering-chennai.faculty_names[40]: Dr. Christopher Columbus C
+computer-science-engineering-chennai.faculty_names[41]: Dr. Jeya Mala D
+computer-science-engineering-chennai.faculty_names[42]: Dr. Nachiyappan S
+computer-science-engineering-chennai.faculty_names[43]: Dr. Malini A
+computer-science-engineering-chennai.faculty_names[44]: Dr. Brindha S
+computer-science-engineering-chennai.faculty_names[45]: Dr. Sweetlin Hemalatha C
+computer-science-engineering-chennai.faculty_names[46]: Dr. Senthil Kumar A M
+computer-science-engineering-chennai.faculty_names[47]: Dr. Suvidha Rupesh Kumar
+computer-science-engineering-chennai.faculty_names[48]: Ms. Jenifa Sharon J
+computer-science-engineering-chennai.faculty_names[49]: Dr. Venkatraman S
+computer-science-engineering-chennai.faculty_names[50]: Dr. Kanniga Devi R
+computer-science-engineering-chennai.faculty_names[51]: Dr. Renuka Devi R
+computer-science-engineering-chennai.faculty_names[52]: Dr. Sivagami M
+computer-science-engineering-chennai.faculty_names[53]: Dr. Kavitha D
+computer-science-engineering-chennai.faculty_names[54]: Dr. Rajkumar S
+computer-science-engineering-chennai.faculty_names[55]: Dr. Rajesh Kumar
+computer-science-engineering-chennai.faculty_names[56]: Dr. Sudha C
+computer-science-engineering-chennai.faculty_names[57]: Dr. Radhika Selvamani B
+computer-science-engineering-chennai.faculty_names[58]: Dr. Shola Usha Rani
+computer-science-engineering-chennai.faculty_names[59]: Dr. Priyadarshini R
+computer-science-engineering-chennai.faculty_names[60]: Dr. Sankar P
+computer-science-engineering-chennai.faculty_names[61]: Dr. Sivaramakrishnan N
+computer-science-engineering-chennai.faculty_names[62]: Dr. Janaki Meena M
+computer-science-engineering-chennai.faculty_names[63]: Dr. Anusha K
+computer-science-engineering-chennai.faculty_names[64]: Dr. Suganeshwari G
+computer-science-engineering-chennai.faculty_names[65]: Mr. Prem Kumar E
+computer-science-engineering-chennai.faculty_names[66]: Dr. Prem Sankar N
+computer-science-engineering-chennai.faculty_names[67]: Dr. Sandhya M
+computer-science-engineering-chennai.faculty_names[68]: Dr. Uma Maheswari J
+computer-science-engineering-chennai.faculty_names[69]: Dr. Jahangeer Sidiq S
+computer-science-engineering-chennai.faculty_names[70]: Ms. Yashika P
+computer-science-engineering-chennai.faculty_names[71]: Dr. Shruti Mishra
+computer-science-engineering-chennai.faculty_names[72]: Ms. Saranya M
+computer-science-engineering-chennai.faculty_names[73]: Dr. Manas Ranjan Prusty
+computer-science-engineering-chennai.faculty_names[74]: Dr. Pandiyaraju V
+computer-science-engineering-chennai.faculty_names[75]: Dr. Rama Prabha K P
+computer-science-engineering-chennai.faculty_names[76]: Dr. Om Kumar C U
+computer-science-engineering-chennai.faculty_names[77]: Dr. Karthika V
+computer-science-engineering-chennai.faculty_names[78]: Dr. Sambath M
+computer-science-engineering-chennai.faculty_names[79]: Dr. Christy Jackson J
+computer-science-engineering-chennai.faculty_names[80]: Dr. Dinakaran M
+computer-science-engineering-chennai.faculty_names[81]: Dr. Krithiga R
+computer-science-engineering-chennai.faculty_names[82]: Dr. Jai Vinita L
+computer-science-engineering-chennai.faculty_names[83]: Dr. Sudha A
+computer-science-engineering-chennai.faculty_names[84]: Dr. Saravanan P
+computer-science-engineering-chennai.faculty_names[85]: Dr. Prabha B
+computer-science-engineering-chennai.faculty_names[86]: Dr. Mansoor Hussain D
+computer-science-engineering-chennai.faculty_names[87]: Dr. Prakash B
+computer-science-engineering-chennai.faculty_names[88]: Dr. Rajesh M
+computer-science-engineering-chennai.faculty_names[89]: Dr. Revathi A R
+computer-science-engineering-chennai.faculty_names[90]: Dr. Sreeja P S
+computer-science-engineering-chennai.faculty_names[91]: Dr. Thomas Abraham J V
+computer-science-engineering-chennai.faculty_names[92]: Dr. B V A N S S Prabhakar Rao
+computer-science-engineering-chennai.faculty_names[93]: Dr. Anand M
+computer-science-engineering-chennai.faculty_names[94]: Dr. Aravindkumar S
+computer-science-engineering-chennai.faculty_names[95]: Dr. Ayesha SK
+computer-science-engineering-chennai.faculty_names[96]: Dr. Sivabalakrishnan M
+computer-science-engineering-chennai.faculty_names[97]: Ms. Preethi M
+computer-science-engineering-chennai.faculty_names[98]: Dr. Sujatha M
+computer-science-engineering-chennai.faculty_names[99]: Prof. Balaji V
+computer-science-engineering-chennai.faculty_names[100]: Ms. Mahalakshmi G
+computer-science-engineering-chennai.faculty_names[101]: Prof. Safiya Parvin A
+computer-science-engineering-chennai.faculty_names[102]: Dr. Aswiga R V
+computer-science-engineering-chennai.faculty_names[103]: Dr. Saranya G
+computer-science-engineering-chennai.faculty_names[104]: Dr. Revathi M
+computer-science-engineering-chennai.faculty_names[105]: Dr. Manjula V
+computer-science-engineering-chennai.faculty_names[106]: Dr. Shyamala L
+computer-science-engineering-chennai.faculty_names[107]: Dr. Hema N
+computer-science-engineering-chennai.faculty_names[108]: Dr. Aarthi B
+computer-science-engineering-chennai.faculty_names[109]: Dr. Padmanaban R
+computer-science-engineering-chennai.faculty_names[110]: Dr. Rajiv Vincent
+computer-science-engineering-chennai.faculty_names[111]: Dr. Gayathri Devi S
+computer-science-engineering-chennai.faculty_names[112]: Ms. Priyanka S
+computer-science-engineering-chennai.faculty_names[113]: Dr. Nathezhtha T
+computer-science-engineering-chennai.faculty_names[114]: Dr. Kishor Kisan Ingle
+computer-science-engineering-chennai.faculty_names[115]: Dr. Amutha Jeevakumari S A
+computer-science-engineering-chennai.faculty_names[116]: Prof. Hemila Rexline D
+computer-science-engineering-chennai.faculty_names[117]: Dr. Balraj E
+computer-science-engineering-chennai.faculty_names[118]: Dr. Kalaipriyan T
+computer-science-engineering-chennai.faculty_names[119]: Dr. Benil T
+computer-science-engineering-chennai.faculty_names[120]: Dr. Malathi G
+computer-science-engineering-chennai.faculty_names[121]: Dr. Sandosh S
+computer-science-engineering-chennai.faculty_names[122]: Dr. Poornima S
+computer-science-engineering-chennai.faculty_names[123]: Dr. Raja M
+computer-science-engineering-chennai.faculty_names[124]: Dr. Harini S
+computer-science-engineering-chennai.faculty_names[125]: Prof. Jeyamani D
+computer-science-engineering-chennai.faculty_names[126]: Dr. Sakthivel V
+computer-science-engineering-chennai.faculty_names[127]: Prof. Logeshwari V
+computer-science-engineering-chennai.faculty_names[128]: Dr. Palani Thanaraj K
+computer-science-engineering-chennai.faculty_names[129]: Dr. Jenila Livingston L M
+computer-science-engineering-chennai.faculty_names[130]: Dr. Gayathri R
+computer-science-engineering-chennai.faculty_names[131]: Dr. Amrit Pal
+computer-science-engineering-chennai.faculty_names[132]: Dr. Muthumanikandan V
+computer-science-engineering-chennai.faculty_names[133]: Dr. Sujithra @ Kanmani R
+computer-science-engineering-chennai.faculty_names[134]: Dr. Anusooya G
+computer-science-engineering-chennai.faculty_names[135]: Dr. Rajarajeswari S
+computer-science-engineering-chennai.faculty_names[136]: Dr. Vijayakumar K P
+computer-science-engineering-chennai.faculty_names[137]: Dr. Jayaram B
+computer-science-engineering-chennai.faculty_names[138]: Dr. Sankari M
+computer-science-engineering-chennai.faculty_names[139]: Prof. Johnsi R
+computer-science-engineering-chennai.faculty_names[140]: Dr. Graceline Jasmine S
+computer-science-engineering-chennai.faculty_names[141]: Ms. Selvalakshmi A
+computer-science-engineering-chennai.faculty_names[142]: Ms. Keerthana G
+computer-science-engineering-chennai.faculty_names[143]: Dr. Karthikeyan N
+computer-science-engineering-chennai.faculty_names[144]: Dr. Jaisakthi S M
+computer-science-engineering-chennai.faculty_names[145]: Ms. Manicka Prabha M
+computer-science-engineering-chennai.faculty_names[146]: Dr. Balasundaram A
+computer-science-engineering-chennai.faculty_names[147]: Dr. Trilok Nath Pandey
+computer-science-engineering-chennai.faculty_names[148]: Dr. Bhuvaneswari Amma N G
+computer-science-engineering-chennai.faculty_names[149]: Dr. Iniya Nehru E
+computer-science-engineering-chennai.faculty_names[150]: Dr. Reena Roy R
+computer-science-engineering-chennai.faculty_names[151]: Prof. Johanan Joysingh S
+computer-science-engineering-chennai.faculty_names[152]: Dr. Parvathi R
+computer-science-engineering-chennai.faculty_names[153]: Dr. Sellam V
+computer-science-engineering-chennai.faculty_names[154]: Dr. Kiruthika S
+computer-science-engineering-chennai.faculty_names[155]: Dr. Ilavendhan A
+computer-science-engineering-chennai.faculty_names[156]: Dr. Jayanthi R
+computer-science-engineering-chennai.faculty_names[157]: Dr. Abirami S
+computer-science-engineering-chennai.faculty_names[158]: Dr. Hemalatha K
+computer-science-engineering-chennai.faculty_names[159]: Prof. Angelin Beulah S
+computer-science-engineering-chennai.faculty_names[160]: Dr. Anita X
+computer-science-engineering-chennai.faculty_names[161]: Dr. Renta Chintala Bhargavi
+computer-science-engineering-chennai.faculty_names[162]: Dr. Abdul Quadir Md
+computer-science-engineering-chennai.faculty_names[163]: Dr. Asha Jerlin M
+computer-science-engineering-chennai.faculty_names[164]: Dr. Nivethitha V
+computer-science-engineering-chennai.faculty_names[165]: Dr. Anandan P
+computer-science-engineering-chennai.faculty_names[166]: Dr. Sivakami R
+computer-science-engineering-chennai.faculty_names[167]: Dr. Suguna M
+computer-science-engineering-chennai.faculty_names[168]: Dr. Natarajan B
+computer-science-engineering-chennai.faculty_names[169]: Dr. Braveen M
+computer-science-engineering-chennai.faculty_names[170]: Prof. Nivedita M
+computer-science-engineering-chennai.faculty_names[171]: Dr. Vivekanandan M
+computer-science-engineering-chennai.faculty_names[172]: Dr. Abinaya S
+computer-science-engineering-chennai.faculty_names[173]: Dr. Sherly A
+computer-science-engineering-chennai.faculty_names[174]: Dr. Bhuvaneswari A
+computer-science-engineering-chennai.faculty_names[175]: Prof. Prethija G
+computer-science-engineering-chennai.faculty_names[176]: Dr. Ganesan R
+computer-science-engineering-chennai.faculty_names[177]: Dr. Benila S
+computer-science-engineering-chennai.faculty_names[178]: Dr. Srinivasa Perumal R
+computer-science-engineering-chennai.faculty_names[179]: Dr. Sandeep Kumar Satapathy
+computer-science-engineering-chennai.faculty_names[180]: Dr. Sudharson S
+computer-science-engineering-chennai.faculty_names[181]: Dr. Premanand V
+computer-science-engineering-chennai.faculty_names[182]: Dr. Maria Anu V
+computer-science-engineering-chennai.faculty_names[183]: Dr. Lakshmi Harika Palivela
+computer-science-engineering-chennai.faculty_names[184]: Dr. Senthil Prakash P N
+computer-science-engineering-chennai.faculty_names[185]: Dr. Sheik Abdullah A
+computer-science-engineering-chennai.faculty_names[186]: Dr. Rekha D
+computer-science-engineering-chennai.faculty_names[187]: Dr. Vergin Raja Sarobin M
+computer-science-engineering-chennai.faculty_names[188]: Dr. Ilakiyaselvan N
+computer-science-engineering-chennai.faculty_names[189]: Ms. Sruthi C K
+computer-science-engineering-chennai.faculty_names[190]: Ms. Aswini H
+computer-science-engineering-chennai.faculty_names[191]: Dr. Deepa Nivethika S
+computer-science-engineering-chennai.faculty_names[192]: Dr. Maheswari N
+computer-science-engineering-chennai.faculty_names[193]: Dr. Edward Jero S
+computer-science-engineering-chennai.faculty_names[194]: Dr. Menaka Pushpa A
+computer-science-engineering-chennai.faculty_names[195]: Prof. Sarah Prithvika P C
+computer-science-engineering-chennai.faculty_names[196]: Prof. Berin Shalu S
+computer-science-engineering-chennai.faculty_names[197]: Dr. Jeganathan L
+computer-science-engineering-chennai.faculty_names[198]: Dr. Manju G
+computer-science-engineering-chennai.faculty_names[199]: Dr. Appalaraju Muralidhar
+computer-science-engineering-chennai.faculty_names[200]: Mr. Ranjith J
+computer-science-engineering-chennai.faculty_names[201]: Dr. Bharathi Raja S
+computer-science-engineering-chennai.faculty_names[202]: Dr. Mary Shamala L
+computer-science-engineering-chennai.faculty_names[203]: Dr. Rajalakshmi R
+computer-science-engineering-chennai.faculty_names[204]: Dr. Rama Parvathy L
+computer-science-engineering-chennai.faculty_names[205]: Dr. Amutha S
+computer-science-engineering-chennai.faculty_names[206]: Dr. Rajesh R
+computer-science-engineering-chennai.faculty_names[207]: Dr. Joshan Athanesious J
+computer-science-engineering-chennai.faculty_names[208]: Dr. Softya Sebastian
+computer-science-engineering-chennai.faculty_names[209]: Dr. Sathyarajasekaran K
+computer-science-engineering-chennai.faculty_names[210]: Dr. Pavithra S
+computer-science-engineering-chennai.faculty_names[211]: Dr. Sahaya Beni Prathiba B
+computer-science-engineering-chennai.faculty_names[212]: Dr. Sobitha Ahila S
+computer-science-engineering-chennai.faculty_names[213]: Dr. Prassanna J
+computer-science-engineering-chennai.faculty_names[214]: Dr. Helen Vijitha P
+computer-science-engineering-chennai.faculty_names[215]: Dr. Parvathy A K
+computer-science-engineering-chennai.faculty_names[216]: Dr. Muthukumaran K
+computer-science-engineering-chennai.faculty_names[217]: Dr. Jayasudha M
+computer-science-engineering-chennai.faculty_names[218]: Dr. Raja Sree T
+computer-science-engineering-chennai.faculty_names[219]: Dr. Saraswathi D
+computer-science-engineering-chennai.faculty_names[220]: Dr. Maheswari S
+computer-science-engineering-chennai.faculty_names[221]: Dr. Joshua Sunder David Reddipogu
+computer-science-engineering-chennai.faculty_names[222]: Dr. Modigari Narendra
+computer-science-engineering-chennai.faculty_names[223]: Dr. Vidhya Lakshmi M
+computer-science-engineering-chennai.faculty_names[224]: Dr. Radha R
+computer-science-engineering-chennai.faculty_names[225]: Dr. Tamilarasi K
+computer-science-engineering-chennai.faculty_names[226]: Dr. Subitha D
+computer-science-engineering-chennai.faculty_names[227]: Dr. Padmavathy T V
+computer-science-engineering-chennai.faculty_names[228]: Dr. Avuthu Avinash Reddy
+computer-science-engineering-chennai.faculty_names[229]: Dr. Sivaranjani N
+computer-science-engineering-chennai.faculty_names[230]: Dr. Sandhya P
+computer-science-engineering-chennai.faculty_names[231]: Ms. Divya S
+computer-science-engineering-chennai.faculty_names[232]: Dr. Tulasi Prasad Sariki
+computer-science-engineering-chennai.faculty_names[233]: Dr. Rishikeshan C A
+computer-science-engineering-chennai.faculty_names[234]: Dr. Sridhar R
+computer-science-engineering-chennai.faculty_names[235]: Ms. Niranjana Junar
+computer-science-engineering-chennai.faculty_names[236]: Dr. Nithya Darisini P.S
+computer-science-engineering-chennai.faculty_names[237]: Dr. Dhanalakshmi R
+computer-science-engineering-chennai.faculty_names[238]: Dr. Karmel A
+computer-science-engineering-chennai.faculty_names[239]: Dr. Jeipratha P N
+computer-science-engineering-chennai.faculty_names[240]: Dr. Kowsigan M
+computer-science-engineering-chennai.faculty_names[241]: Dr. Noel Jeygar Robert V
+computer-science-engineering-chennai.faculty_names[242]: Dr. Suganya R
+computer-science-engineering-chennai.faculty_names[243]: Ms. Sumathy R
+computer-science-engineering-chennai.faculty_names[244]: Dr. Shree Prakash
+computer-science-engineering-chennai.faculty_names[245]: Dr. Syed Ibrahim S P
+computer-science-engineering-chennai.faculty_names[246]: Dr. Renuka Devi S
+computer-science-engineering-chennai.faculty_names[247]: Dr. Swaminathan A
+computer-science-engineering-chennai.faculty_names[248]: Dr. Saleena B
+computer-science-engineering-chennai.faculty_names[249]: Dr. Poonkodi M
+computer-science-engineering-chennai.faculty_names[250]: Dr. Viswanathan V
+computer-science-engineering-chennai.faculty_names[251]: Dr. Sangeetha N
+computer-science-engineering-chennai.faculty_names[252]: Dr. Madura Meenakshi R
+computer-science-engineering-chennai.faculty_names[253]: Dr. Dhavakumar P
+computer-science-engineering-chennai.faculty_names[254]: Dr. Sarita Kumari
+computer-science-engineering-chennai.faculty_names[255]: Dr. Balasaraswathi V R
+computer-science-engineering-chennai.faculty_names[256]: Dr. Pavithra L K
+computer-science-engineering-chennai.faculty_names[257]: Dr. Leninisha S
+computer-science-engineering-chennai.faculty_names[258]: Dr. Sajidha S A
+computer-science-engineering-chennai.faculty_names[259]: Ms. Suruthi M
+computer-science-engineering-chennai.faculty_names[260]: Dr. Arunkumar V
+computer-science-engineering-chennai.faculty_names[261]: Dr. Kumar R
+computer-science-engineering-chennai.faculty_names[262]: Dr. Rajakumar R
+computer-science-engineering-chennai.faculty_names[263]: Dr. Dominic Savio M
+computer-science-engineering-chennai.faculty_names[264]: Dr. Santhi V
+computer-science-engineering-chennai.faculty_names[265]: Dr. Kabilan K
+computer-science-engineering-chennai.faculty_names[266]: Dr. Sathian D
+computer-science-engineering-chennai.faculty_names[267]: Dr. Ranjith Kumar M
+computer-science-engineering-chennai.faculty_names[268]: Dr. Rathna R
+computer-science-engineering-chennai.faculty_names[269]: Dr. Rajakumar Arul
+computer-science-engineering-chennai.faculty_names[270]: Dr. Kaja Mohideen A
+computer-science-engineering-chennai.faculty_names[271]: Dr. Renjith P N
+computer-science-engineering-chennai.faculty_names[272]: Dr. Nithyanandam P
+computer-science-engineering-chennai.faculty_names[273]: Dr. Mercy Rajaselvi Beaulah P
+computer-science-engineering-chennai.faculty_names[274]: Dr. Abishi Chowdhury
+computer-science-engineering-chennai.faculty_names[275]: Dr. Valarmathi P
+computer-science-engineering-chennai.faculty_names[276]: Dr. Premalatha M
+computer-science-engineering-chennai.faculty_names[277]: Dr. Kanchana Devi V
+computer-science-engineering-chennai.faculty_names[278]: Dr. Sivakumar P
+computer-science-engineering-chennai.faculty_names[279]: Dr. Afruza Begum
+computer-science-engineering-chennai.faculty_names[280]: Dr. Ahadit A B
+computer-science-engineering-chennai.faculty_names[281]: Dr. Yogesh C
+computer-science-engineering-chennai.faculty_names[282]: Dr. Subbulakshmi P
+computer-science-engineering-chennai.faculty_names[283]: Dr. Pravin Renold A
+computer-science-engineering-chennai.faculty_names[284]: Dr. Asnath Victy Phamila Y
+computer-science-engineering-chennai.faculty_names[285]: Dr. Shivani Gupta
+computer-science-engineering-chennai.faculty_names[286]: Dr. Karthika S K
+computer-science-engineering-chennai.faculty_names[287]: Dr. Geetha S
+computer-science-engineering-chennai.faculty_names[288]: Dr. Punitha K
+computer-science-engineering-chennai.faculty_names[289]: Dr. Brindha V
+computer-science-engineering-chennai.faculty_names[290]: Dr. Jani Anbarasi L
+computer-science-engineering-chennai.faculty_names[291]: Dr. Subbulakshmi T
+computer-science-engineering-chennai.faculty_names[292]: Dr. Indira B
+computer-science-engineering-chennai.faculty_names[293]: Dr. Vijayaprabakaran K
+computer-science-engineering-chennai.faculty_names[294]: Dr. Rukmani P
+computer-science-engineering-chennai.faculty_names[295]: Dr. Priyaadharshini M
+computer-science-engineering-chennai.faculty_names[296]: Dr. Nayeemulla Khan A
+computer-science-engineering-chennai.faculty_names[297]: Dr. Vijayalakshmi A
+computer-science-engineering-chennai.faculty_names[298]: Dr. Siva Priya M S
+computer-science-engineering-chennai.faculty_names[299]: Ms. Narmadha R
+computer-science-engineering-chennai.faculty_names[300]: Dr. Thanikachalam V
+computer-science-engineering-chennai.faculty_names[301]: Dr. Sureshkumar WI
+computer-science-engineering-chennai.faculty_names[302]: Dr. Sridevi S
+computer-science-engineering-chennai.faculty_names[303]: Dr. Priyadarshini J
+computer-science-engineering-chennai.faculty_names[304]: Ms. Sujatha M
+computer-science-engineering-chennai.faculty_names[305]: Dr. Saranyaraj D
+computer-science-engineering-chennai.faculty_names[306]: Prof. Sheela Lavanya J M
+computer-science-engineering-chennai.faculty_names[307]: Dr. Indra Priyadharshini S
+computer-science-engineering-chennai.faculty_names[308]: Dr. Malini Deepika M
+computer-science-engineering-chennai.faculty_names[309]: Dr. Vallidevi K
+computer-science-engineering-chennai.faculty_names[310]: Dr. Marimuthu M
+computer-science-engineering-chennai.faculty_names[311]: Dr. Vatchala S
+computer-science-engineering-chennai.faculty_names[312]: Ms. Priyadharshini S
+computer-science-engineering-chennai.faculty_names[313]: Dr. Selvam D
+computer-science-engineering-chennai.faculty_names[314]: Dr. Suganya G
+computer-science-engineering-chennai.faculty_names[315]: Dr. Vigneshwari S
+computer-science-engineering-chennai.faculty_names[316]: Dr. Joe Dhanith P R
+computer-science-engineering-chennai.faculty_names[317]: Dr. Linda Joseph
+computer-science-engineering-chennai.faculty_names[318]: Dr. Omana J
+computer-science-engineering-chennai.faculty_names[319]: Dr. Padma J
+computer-science-engineering-chennai.faculty_names[320]: Dr. Janani T
+computer-science-engineering-chennai.faculty_names[321]: Dr. Parkavi K
+computer-science-engineering-chennai.faculty_names[322]: Dr. Lekshmi K
+computer-science-engineering-chennai.faculty_names[323]: Dr. Umamaheswari E
+computer-science-engineering-chennai.faculty_names[324]: Dr. Elakiya E
+computer-science-engineering-chennai.faculty_names[325]: Dr. Prakash P
+computer-science-engineering-chennai.faculty_names[326]: Dr. Kanimozhi S
+computer-science-engineering-chennai.faculty_names[327]: Dr. Kshma Trivedi
+computer-science-engineering-chennai.faculty_names[328]: Dr. Pradeep K V
+computer-science-engineering-chennai.faculty_names[329]: Dr. Sharmila Devi S
+computer-science-engineering-chennai.faculty_names[330]: Dr. Smrithy G S
+computer-science-engineering-chennai.faculty_names[331]: Dr. Umesh K
+computer-science-engineering-chennai.faculty_names[332]: Dr. Jannath Nisha O S
+computer-science-engineering-chennai.faculty_names[333]: Dr. Vignesh U
+computer-science-engineering-chennai.faculty_names[334]: Dr. Neela Narayanan V
+computer-science-engineering-chennai.faculty_names[335]: Dr. Manikandan P
+computer-science-engineering-chennai.faculty_names[336]: Dr. Pattabiraman V
+computer-science-engineering-chennai.faculty_names[337]: Dr. Pradeep Kumar T S
+computer-science-engineering-chennai.faculty_names[338]: Dr. Anita Christaline J
+computer-science-engineering-chennai.faculty_names[339]: Dr. Prabhakaran R
+computer-science-engineering-chennai.faculty_names[340]: Dr. Vinothini A
+computer-science-engineering-chennai.faculty_names[341]: Dr. Rabindra Kumar Singh
+computer-science-engineering-chennai.faculty_names[342]: Dr. Tahir Mujtaba
+computer-science-engineering-chennai.faculty_names[343]: Dr. Elango N M
+computer-science-engineering-chennai.faculty_names[344]: Dr. Nisha V M
+computer-science-engineering-chennai.faculty_names[345]: Prof. Jeyavim Sherlin R C
+computer-science-engineering-chennai.faculty_names[346]: Prof. Manoranjitham M
+computer-science-engineering-chennai.faculty_names[347]: Dr. Sudheer Kumar E
+events.faculty_count: 0
+mechanical-engineering-chennai.faculty_count: 92
+mechanical-engineering-chennai.faculty_names[0]: Dr. Raghukiran Nadimpalli
+mechanical-engineering-chennai.faculty_names[1]: Dr. Elango M
+mechanical-engineering-chennai.faculty_names[2]: Mr. Krishna Kumar J
+mechanical-engineering-chennai.faculty_names[3]: Dr. Shyam Kumar M B
+mechanical-engineering-chennai.faculty_names[4]: Mr. Shafee S M
+mechanical-engineering-chennai.faculty_names[5]: Mr. Sivaganesh M
+mechanical-engineering-chennai.faculty_names[6]: Dr. Sakthivel G
+mechanical-engineering-chennai.faculty_names[7]: Dr. Ayub Ahmed Janvekar
+mechanical-engineering-chennai.faculty_names[8]: Dr. Joseph Daniel
+mechanical-engineering-chennai.faculty_names[9]: Dr. Mrutyunjay Panigrahi
+mechanical-engineering-chennai.faculty_names[10]: Dr. Manimaran R
+mechanical-engineering-chennai.faculty_names[11]: Dr. John Rajan A
+mechanical-engineering-chennai.faculty_names[12]: Dr. Bhisham Kumar Dhurendher
+mechanical-engineering-chennai.faculty_names[13]: Ms. Manju D
+mechanical-engineering-chennai.faculty_names[14]: Dr. Venugopal T
+mechanical-engineering-chennai.faculty_names[15]: Dr. Deivanathan R
+mechanical-engineering-chennai.faculty_names[16]: Dr. Pradeep N
+mechanical-engineering-chennai.faculty_names[17]: Dr. Arockia Selvakumar
+mechanical-engineering-chennai.faculty_names[18]: Mr. Jagan K
+mechanical-engineering-chennai.faculty_names[19]: Dr. Vinayagamurthy G
+mechanical-engineering-chennai.faculty_names[20]: Dr. Senthil Kumar M
+mechanical-engineering-chennai.faculty_names[21]: Dr. Bhaskara Rao
+mechanical-engineering-chennai.faculty_names[22]: Mr. Vinoth Selva Bruce L
+mechanical-engineering-chennai.faculty_names[23]: Dr. Lenin Babu M C
+mechanical-engineering-chennai.faculty_names[24]: Dr. Feroskhan M
+mechanical-engineering-chennai.faculty_names[25]: Dr. Mogana Priya C
+mechanical-engineering-chennai.faculty_names[26]: Dr. Jafferson J M
+mechanical-engineering-chennai.faculty_names[27]: Dr. Padmanabhan R
+mechanical-engineering-chennai.faculty_names[28]: Dr. Tamil Selvan P
+mechanical-engineering-chennai.faculty_names[29]: Mr. Harish Kumar N
+mechanical-engineering-chennai.faculty_names[30]: Dr. Devaprakasam D
+mechanical-engineering-chennai.faculty_names[31]: Mr. Cecil Joseph
+mechanical-engineering-chennai.faculty_names[32]: Dr. Davidson Jebaseelan
+mechanical-engineering-chennai.faculty_names[33]: Dr. Pritam Das
+mechanical-engineering-chennai.faculty_names[34]: Dr. Sasikumar M
+mechanical-engineering-chennai.faculty_names[35]: Dr. Venkatachalam G
+mechanical-engineering-chennai.faculty_names[36]: Dr. Radha R
+mechanical-engineering-chennai.faculty_names[37]: Mr. Kumaresan S
+mechanical-engineering-chennai.faculty_names[38]: Dr. R Harish
+mechanical-engineering-chennai.faculty_names[39]: Dr. G. Murali Mohan
+mechanical-engineering-chennai.faculty_names[40]: Mr. Dharaga Vineeth S
+mechanical-engineering-chennai.faculty_names[41]: Dr. Sanjeev Jakhar
+mechanical-engineering-chennai.faculty_names[42]: Dr. Krishanu Ganguly
+mechanical-engineering-chennai.faculty_names[43]: Dr. Awani Bhushan
+mechanical-engineering-chennai.faculty_names[44]: Dr. Avadhesh Kumar Sharma
+mechanical-engineering-chennai.faculty_names[45]: Mr. Suresh T
+mechanical-engineering-chennai.faculty_names[46]: Mr. Aravindha Swamy D
+mechanical-engineering-chennai.faculty_names[47]: Dr. Lakshmi Pathi Jakkamputi
+mechanical-engineering-chennai.faculty_names[48]: Mr. Palanivelrajan A R
+mechanical-engineering-chennai.faculty_names[49]: Mr. Muthuraman J
+mechanical-engineering-chennai.faculty_names[50]: Dr. Gobinath N
+mechanical-engineering-chennai.faculty_names[51]: Dr. Sreekanth Dondapati
+mechanical-engineering-chennai.faculty_names[52]: Dr. Saravanakumar D
+mechanical-engineering-chennai.faculty_names[53]: Dr. Abhishek Rudra Pal
+mechanical-engineering-chennai.faculty_names[54]: Dr. Anshuman Das
+mechanical-engineering-chennai.faculty_names[55]: Dr. Balaji B
+mechanical-engineering-chennai.faculty_names[56]: Dr. Karunamurthy K
+mechanical-engineering-chennai.faculty_names[57]: Dr. Jeyanthi S
+mechanical-engineering-chennai.faculty_names[58]: Mr. Shanju Jossian
+mechanical-engineering-chennai.faculty_names[59]: Dr. Bonda Atchuta Ganesh Yuva Raju
+mechanical-engineering-chennai.faculty_names[60]: Dr. Gajanand Gupta
+mechanical-engineering-chennai.faculty_names[61]: Dr. Bhupesh Singh Katiyar
+mechanical-engineering-chennai.faculty_names[62]: Dr. Annamalai K
+mechanical-engineering-chennai.faculty_names[63]: Dr. Ponnusamy P
+mechanical-engineering-chennai.faculty_names[64]: Dr. Christo Michael T
+mechanical-engineering-chennai.faculty_names[65]: Dr. Manoj Kumar R
+mechanical-engineering-chennai.faculty_names[66]: Mr. Venkatesh R
+mechanical-engineering-chennai.faculty_names[67]: Mr. Sarath Chandran K G
+mechanical-engineering-chennai.faculty_names[68]: Dr. Janardhan Reddy K
+mechanical-engineering-chennai.faculty_names[69]: Mr. Sangeeth Venu
+mechanical-engineering-chennai.faculty_names[70]: Dr. Jegadeeshwaran R
+mechanical-engineering-chennai.faculty_names[71]: Mr. Sivakumar R
+mechanical-engineering-chennai.faculty_names[72]: Dr. Sivakumar R
+mechanical-engineering-chennai.faculty_names[73]: Dr. Mohan R
+mechanical-engineering-chennai.faculty_names[74]: Dr. Manavalla Sreekanth
+mechanical-engineering-chennai.faculty_names[75]: Dr. Prabhakar Kushwaha
+mechanical-engineering-chennai.faculty_names[76]: Dr. Tapan Kumar Mahantha
+mechanical-engineering-chennai.faculty_names[77]: Dr. Ganesh M
+mechanical-engineering-chennai.faculty_names[78]: Dr. Saurabh Yadav
+mechanical-engineering-chennai.faculty_names[79]: Mr. Thirumal Selvan T
+mechanical-engineering-chennai.faculty_names[80]: Mr. Thangavel C
+mechanical-engineering-chennai.faculty_names[81]: Ms. Annapurna J K
+mechanical-engineering-chennai.faculty_names[82]: Dr. Narayanan R
+mechanical-engineering-chennai.faculty_names[83]: Dr. Eswaran M
+mechanical-engineering-chennai.faculty_names[84]: Dr. Sugumaran V
+mechanical-engineering-chennai.faculty_names[85]: Mr. Arunkumar V
+mechanical-engineering-chennai.faculty_names[86]: Dr. Shenbaga Velu P
+mechanical-engineering-chennai.faculty_names[87]: Mr. Prawin Babu L
+mechanical-engineering-chennai.faculty_names[88]: Mr. Raveenkumar V
+mechanical-engineering-chennai.faculty_names[89]: Dr. Giridharan A
+mechanical-engineering-chennai.faculty_names[90]: Dr. Immanuel Selwyn Raj A
+mechanical-engineering-chennai.faculty_names[91]: Mr. Sarathkumar P
+ssl.faculty_count: 79
+ssl.faculty_names[0]: Dr. Rashmi Rekha Borah
+ssl.faculty_names[1]: Prof. Sri Takshara K
+ssl.faculty_names[2]: Dr. Vijayalakshmi V
+ssl.faculty_names[3]: Dr. Aruna R
+ssl.faculty_names[4]: Dr. Maya Rathnasabapathy
+ssl.faculty_names[5]: Dr. Anuja Raj
+ssl.faculty_names[6]: Dr. Sheetal Narayan Musale
+ssl.faculty_names[7]: Dr. Govindarajan P
+ssl.faculty_names[8]: Dr. Patchainayagi S
+ssl.faculty_names[9]: Ms. Ashly Varghese
+ssl.faculty_names[10]: Dr. Jayaraj R
+ssl.faculty_names[11]: Dr. Alli P
+ssl.faculty_names[12]: Dr. Jaishree Karthiga R K
+ssl.faculty_names[13]: Prof. Gerome Karthic Kumar L
+ssl.faculty_names[14]: Dr. Bhuvaneswari G
+ssl.faculty_names[15]: Dr. Sathis Kumar G
+ssl.faculty_names[16]: Dr. Justin Joseph
+ssl.faculty_names[17]: Prof. Clarisse Rouabah
+ssl.faculty_names[18]: Prof. Sugumar G
+ssl.faculty_names[19]: Prof. Cephas Prakash Raja R C
+ssl.faculty_names[20]: Dr. Preetha R
+ssl.faculty_names[21]: Dr. Ganesh Nagorao Chilke
+ssl.faculty_names[22]: Prof. Marziya Begum S
+ssl.faculty_names[23]: Dr. Binu Sahayam D
+ssl.faculty_names[24]: Dr. Ajit I
+ssl.faculty_names[25]: Dr. Subbu Lakshmi M
+ssl.faculty_names[26]: Dr. Roopesh O B
+ssl.faculty_names[27]: Dr. Shahin Khan
+ssl.faculty_names[28]: Prof. Anthony Jaya Prathap S
+ssl.faculty_names[29]: Prof. Jamuna Rani M
+ssl.faculty_names[30]: Dr. Shalina Susan Mathew
+ssl.faculty_names[31]: Dr. Manali Karmakar
+ssl.faculty_names[32]: Dr. Tarang Mahajan
+ssl.faculty_names[33]: Prof. Francis Kulandai Raj F
+ssl.faculty_names[34]: Ms. Roopha S
+ssl.faculty_names[35]: Dr. Divya Muraleedharan
+ssl.faculty_names[36]: Ms. Gowri Shankari M
+ssl.faculty_names[37]: Dr. Alamelu C
+ssl.faculty_names[38]: Dr. Subasree V
+ssl.faculty_names[39]: Ms. Prasitha V
+ssl.faculty_names[40]: Dr. Vijayalakshmi Sadasivan
+ssl.faculty_names[41]: Dr. Maharishi R
+ssl.faculty_names[42]: Dr. Arun Kumar
+ssl.faculty_names[43]: Dr. Akaitab Mukherjee
+ssl.faculty_names[44]: Mr. Glint John M S
+ssl.faculty_names[45]: Ms. Julia M Abraham
+ssl.faculty_names[46]: Dr. Daisy Gohain
+ssl.faculty_names[47]: Ms. Priyankha R
+ssl.faculty_names[48]: Ms. Sri Visnu Varthini V K
+ssl.faculty_names[49]: Dr. Kannadasan V
+ssl.faculty_names[50]: Dr. YCS. Xavier
+ssl.faculty_names[51]: Prof. Bhuvaneshwari P
+ssl.faculty_names[52]: Ms. Moniza Ray S P
+ssl.faculty_names[53]: Dr. Swati Sharma
+ssl.faculty_names[54]: Prof. Harsha V
+ssl.faculty_names[55]: Dr. Samik Malla
+ssl.faculty_names[56]: Ms. Harinisri V
+ssl.faculty_names[57]: Dr. Tiwari Mahalaxmi Shivshankar
+ssl.faculty_names[58]: Dr. Sivakami B
+ssl.faculty_names[59]: Dr. Rajasekaran V
+ssl.faculty_names[60]: Dr. Alan G
+ssl.faculty_names[61]: Prof. Aishwarya V
+ssl.faculty_names[62]: Dr. Devi Meenakshi K
+ssl.faculty_names[63]: Dr. Vijayabanu U
+ssl.faculty_names[64]: Dr. Vineeth Radhakrishnan
+ssl.faculty_names[65]: Dr. Vijayalakshmi V
+ssl.faculty_names[66]: Ms. Leena V.S
+ssl.faculty_names[67]: Dr. Haseena Naji
+ssl.faculty_names[68]: Dr. Rajitha K
+ssl.faculty_names[69]: Dr. Luke Gerard Christie
+ssl.faculty_names[70]: Prof. Sreekala U
+ssl.faculty_names[71]: Prof. Yukino Krishna
+ssl.faculty_names[72]: Prof. Shalini Supriya
+ssl.faculty_names[73]: Dr. Raja Rajeswari G
+ssl.faculty_names[74]: Ms. Sumathra S
+ssl.faculty_names[75]: Dr. Mallika Sinha
+ssl.faculty_names[76]: Prof. John Vincent A
+ssl.faculty_names[77]: Ms. Indhumathi S
+ssl.faculty_names[78]: Dr. Chithra G K
+law-college-chennai.faculty_count: 47
+law-college-chennai.faculty_names[0]: Dr. Arjun Philip George
+law-college-chennai.faculty_names[1]: Dr. Chandrika Mehta
+law-college-chennai.faculty_names[2]: Prof. Santhosh V
+law-college-chennai.faculty_names[3]: Prof. Zakkariya T H
+law-college-chennai.faculty_names[4]: Dr. Ananda Krishna Raj S
+law-college-chennai.faculty_names[5]: Ms. Roma Pradhan
+law-college-chennai.faculty_names[6]: Prof. Abirami P C
+law-college-chennai.faculty_names[7]: Ms. Gayathri P G
+law-college-chennai.faculty_names[8]: Dr. Jishnu J R
+law-college-chennai.faculty_names[9]: Dr. Nikhil G
+law-college-chennai.faculty_names[10]: Dr. Jayendra Kasture
+law-college-chennai.faculty_names[11]: Prof. Mohamed Shareef P P
+law-college-chennai.faculty_names[12]: Dr. Saji Sivan S
+law-college-chennai.faculty_names[13]: Prof. Abhishek Raj
+law-college-chennai.faculty_names[14]: Prof. K Kamban Socretes
+law-college-chennai.faculty_names[15]: Dr. Rabbiraj C
+law-college-chennai.faculty_names[16]: Dr. Lalith Kumar J
+law-college-chennai.faculty_names[17]: Dr. Ambika R Nair
+law-college-chennai.faculty_names[18]: Prof. Aditya S
+law-college-chennai.faculty_names[19]: Dr. Tania Sebastian
+law-college-chennai.faculty_names[20]: Prof. Esakki Ammal K
+law-college-chennai.faculty_names[21]: Prof. Monisha B
+law-college-chennai.faculty_names[22]: Dr. Reshma Suresh
+law-college-chennai.faculty_names[23]: Dr. Ganesan K
+law-college-chennai.faculty_names[24]: Ms. Nishanthini R
+law-college-chennai.faculty_names[25]: Prof. Navya Benny
+law-college-chennai.faculty_names[26]: Dr. Sankar D
+law-college-chennai.faculty_names[27]: Prof. Shanthi Krishna
+law-college-chennai.faculty_names[28]: Prof. Kumar Mukul Choudhary
+law-college-chennai.faculty_names[29]: Prof. Tanmay Roy
+law-college-chennai.faculty_names[30]: Prof. Swarlata Pandey
+law-college-chennai.faculty_names[31]: Prof. Vijayendra Kumar M
+law-college-chennai.faculty_names[32]: Prof. Aswathy Sukumaran
+law-college-chennai.faculty_names[33]: Dr. Bijoy Sharma
+law-college-chennai.faculty_names[34]: Prof. Sezolu Nyekha
+law-college-chennai.faculty_names[35]: Dr. Kesavamoorthy R
+law-college-chennai.faculty_names[36]: Dr. Rajavenkatesan P R L
+law-college-chennai.faculty_names[37]: Prof. Kavi Shankar
+law-college-chennai.faculty_names[38]: Dr. M.S. Sharmila
+law-college-chennai.faculty_names[39]: Dr. Prema E
+law-college-chennai.faculty_names[40]: Prof. Mrudhul M Shenoy
+law-college-chennai.faculty_names[41]: Prof. Dulung Sengupta
+law-college-chennai.faculty_names[42]: Prof. Vijaya Bharathi Ravikumar
+law-college-chennai.faculty_names[43]: Dr. Shinsa P Mathew
+law-college-chennai.faculty_names[44]: Dr. Nidhi Mohan K
+law-college-chennai.faculty_names[45]: Prof. Arjun Shaji
+law-college-chennai.faculty_names[46]: Dr. Saiji J S
+fashion-technology-college-chennai.faculty_count: 14
+fashion-technology-college-chennai.faculty_names[0]: Dr. Palani Rajan T
+fashion-technology-college-chennai.faculty_names[1]: Dr. Rathinamoorthy R
+fashion-technology-college-chennai.faculty_names[2]: Dr. Bhuvaneshwari Mohan
+fashion-technology-college-chennai.faculty_names[3]: Prof. Raja Balasaraswathi S
+fashion-technology-college-chennai.faculty_names[4]: Dr. Selvakumar A
+fashion-technology-college-chennai.faculty_names[5]: Dr. Banumathy S
+fashion-technology-college-chennai.faculty_names[6]: Prof. Aparna Govind
+fashion-technology-college-chennai.faculty_names[7]: Dr. Vasanth Kumar D
+fashion-technology-college-chennai.faculty_names[8]: Prof. Vinusowndarya S
+fashion-technology-college-chennai.faculty_names[9]: Dr. Rajesh Kumar K
+fashion-technology-college-chennai.faculty_names[10]: Prof. Saroj K M
+fashion-technology-college-chennai.faculty_names[11]: Dr. Gayathri N
+fashion-technology-college-chennai.faculty_names[12]: Dr. Maanvizhi M
+fashion-technology-college-chennai.faculty_names[13]: Dr. Jesica Roshima A
+electrical-and-electronics-engineering-chennai.faculty_count: 71
+electrical-and-electronics-engineering-chennai.faculty_names[0]: Dr. Arul R
+electrical-and-electronics-engineering-chennai.faculty_names[1]: Dr. T Deepa
+electrical-and-electronics-engineering-chennai.faculty_names[2]: Dr. Lavanya V
+electrical-and-electronics-engineering-chennai.faculty_names[3]: Dr. Meera P S
+electrical-and-electronics-engineering-chennai.faculty_names[4]: Dr. Lenin N C
+electrical-and-electronics-engineering-chennai.faculty_names[5]: Mr. Manish Kumar Dwivedi
+electrical-and-electronics-engineering-chennai.faculty_names[6]: Mr. Marabathina Maheedhar
+electrical-and-electronics-engineering-chennai.faculty_names[7]: Dr. Umayal C
+electrical-and-electronics-engineering-chennai.faculty_names[8]: Ms. Shri Saranyaa J
+electrical-and-electronics-engineering-chennai.faculty_names[9]: Prof. Anantha Krishnan V
+electrical-and-electronics-engineering-chennai.faculty_names[10]: Mr. Rajaguru Veeracholan V
+electrical-and-electronics-engineering-chennai.faculty_names[11]: Dr. Nilanjan Tewari
+electrical-and-electronics-engineering-chennai.faculty_names[12]: Dr. Gnana Swathika O V
+electrical-and-electronics-engineering-chennai.faculty_names[13]: Dr. T.Thyagarajan
+electrical-and-electronics-engineering-chennai.faculty_names[14]: Dr. Gunabalan R
+electrical-and-electronics-engineering-chennai.faculty_names[15]: Dr. Kanimozhi G
+electrical-and-electronics-engineering-chennai.faculty_names[16]: Mr. Prasath T
+electrical-and-electronics-engineering-chennai.faculty_names[17]: Dr. Aravind C K
+electrical-and-electronics-engineering-chennai.faculty_names[18]: Dr. Swetha R Kumar
+electrical-and-electronics-engineering-chennai.faculty_names[19]: Ms. Subashini M
+electrical-and-electronics-engineering-chennai.faculty_names[20]: Dr. Prabhakar M
+electrical-and-electronics-engineering-chennai.faculty_names[21]: Dr. Angeline Ezhilarasi G
+electrical-and-electronics-engineering-chennai.faculty_names[22]: Dr. Inayathullah Abdul Kareem
+electrical-and-electronics-engineering-chennai.faculty_names[23]: Dr Jamuna K
+electrical-and-electronics-engineering-chennai.faculty_names[24]: Dr. Nawin R A
+electrical-and-electronics-engineering-chennai.faculty_names[25]: Dr. Angalaeswari S
+electrical-and-electronics-engineering-chennai.faculty_names[26]: Dr. Febin Daya J L
+electrical-and-electronics-engineering-chennai.faculty_names[27]: Dr. Krishna Kumba
+electrical-and-electronics-engineering-chennai.faculty_names[28]: Dr. Rupa Mishra
+electrical-and-electronics-engineering-chennai.faculty_names[29]: Mr. Raji Krishna
+electrical-and-electronics-engineering-chennai.faculty_names[30]: Ms. Vimala Gayathri S
+electrical-and-electronics-engineering-chennai.faculty_names[31]: Ms. Abhirami AN
+electrical-and-electronics-engineering-chennai.faculty_names[32]: Dr. Senthil Kumar N
+electrical-and-electronics-engineering-chennai.faculty_names[33]: Mr. Mohamed Abdullah J
+electrical-and-electronics-engineering-chennai.faculty_names[34]: Ms. Rani S
+electrical-and-electronics-engineering-chennai.faculty_names[35]: Dr. Hemamalini S
+electrical-and-electronics-engineering-chennai.faculty_names[36]: Dr. Jayapragash R
+electrical-and-electronics-engineering-chennai.faculty_names[37]: Dr. Senthil Kumar R
+electrical-and-electronics-engineering-chennai.faculty_names[38]: Ms. Sushmi N B
+electrical-and-electronics-engineering-chennai.faculty_names[39]: Dr. Peer Fathima A
+electrical-and-electronics-engineering-chennai.faculty_names[40]: Dr. Sebina Yesmin
+electrical-and-electronics-engineering-chennai.faculty_names[41]: Dr. Sri Revathi B
+electrical-and-electronics-engineering-chennai.faculty_names[42]: Dr. Sitharthan R
+electrical-and-electronics-engineering-chennai.faculty_names[43]: Dr. Jyotismita Mishra
+electrical-and-electronics-engineering-chennai.faculty_names[44]: Dr. Nithya Venkatesan
+electrical-and-electronics-engineering-chennai.faculty_names[45]: Mr. Dhanesh R
+electrical-and-electronics-engineering-chennai.faculty_names[46]: Dr. Mohamed Imran A
+electrical-and-electronics-engineering-chennai.faculty_names[47]: Dr. Mithu Sarkar
+electrical-and-electronics-engineering-chennai.faculty_names[48]: Mr. Harinarayanan J
+electrical-and-electronics-engineering-chennai.faculty_names[49]: Dr. Sri Ramalakshmi P
+electrical-and-electronics-engineering-chennai.faculty_names[50]: Dr. Iyswarya Annapoorani K
+electrical-and-electronics-engineering-chennai.faculty_names[51]: Dr. Sreedevi V T
+electrical-and-electronics-engineering-chennai.faculty_names[52]: Dr. Subbulekshmi D
+electrical-and-electronics-engineering-chennai.faculty_names[53]: Dr. Meenakshi J
+electrical-and-electronics-engineering-chennai.faculty_names[54]: Dr. Balamurugan P
+electrical-and-electronics-engineering-chennai.faculty_names[55]: Dr. Vijayapriya R
+electrical-and-electronics-engineering-chennai.faculty_names[56]: Dr. Ganesh M
+electrical-and-electronics-engineering-chennai.faculty_names[57]: Mr. Balakumar I
+electrical-and-electronics-engineering-chennai.faculty_names[58]: Ms. Anu Shalini
+electrical-and-electronics-engineering-chennai.faculty_names[59]: Dr. Srimathi R
+electrical-and-electronics-engineering-chennai.faculty_names[60]: Ms. Mohana Preethi V
+electrical-and-electronics-engineering-chennai.faculty_names[61]: Dr. Chendur Kumaran R
+electrical-and-electronics-engineering-chennai.faculty_names[62]: Dr. Pritam Bhowmik
+electrical-and-electronics-engineering-chennai.faculty_names[63]: Dr. Binu Ben Jose D R
+electrical-and-electronics-engineering-chennai.faculty_names[64]: Dr. Kuruseelan S
+electrical-and-electronics-engineering-chennai.faculty_names[65]: Dr. Sumathi V
+electrical-and-electronics-engineering-chennai.faculty_names[66]: Dr. Premalatha L
+electrical-and-electronics-engineering-chennai.faculty_names[67]: Dr. Anik Goswami
+electrical-and-electronics-engineering-chennai.faculty_names[68]: Ms. Anitha K
+electrical-and-electronics-engineering-chennai.faculty_names[69]: Ms. Maladhi D
+electrical-and-electronics-engineering-chennai.faculty_names[70]: Dr. Vaithilingam C

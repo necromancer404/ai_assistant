@@ -1,0 +1,104 @@
+
+Research Areas
+SAS - Physics
+Alternate Energy and Materials science Solid Oxide Fuel Cells, Cathode materials for SOFC, Electrochemical Gas Sensors, Catalysis, Ion-Solid Interactions, Energy and Environment, and Magnetic materials, Crystal growth and characterization.
+Complex Systems and Nonlinear Dynamics Complex systems, Dynamics of Complex Networks, Nonlinear Dynamics and Chaos Theory, Mathematical modelling, and Statistical Physics.
+Energy and Environment Carbon materials, Photocatalysis. Electrocatalysis, Heterogeneous catalysis, Volatile organic compound and alcohol sensors, Hierarchical nanomaterials, Supercapacitors, Volatile organic compound oxidation, Enteric pathogen removals, Wastewater treatment, Enzyme technology, Immobilization and Adsorption, Dye sensitised solar cells, Waste to energy conversion.
+Micro Electro Mechanical Systems (MEMS) Modelling and Simulation of Micro Electro Mechanical Systems (MEMS) using COMSOL software, and Materials Modelling and Simulation using Quantum Espresso software.
+Nanoscience and Nanotechnology Nanostructures, Growth and Characterizations, Quantum dots in glasses.
+Photonics and Laser Technology Photonic glasses, Fiber optic devices for sensing applications, and Optoelectronic devices and Nonlinear optics.
+Physics of Plasma Basic experimental plasma physics, Nonlinear experiments in DC/RF plasma, Modelling of Nonlinear Plasma Dynamics, Plasma enhanced chemical vapour deposition, plasma assisted material processing, Dusty plasma, Space plasma, Magneto plasma, Diagnostics in plasma, and Plasma assisted smart textile.
+Relativity, Geometry, Mathematical Physics and Physics Pedagogy Ricci Flow, General Relativity, Differential Geometry, Mathematical Physics, Classical and Quantum Physics, Non-Riemannian Geometry, Homogeneous Spaces, Lie Groups, Finite Groups, Higher Order-Higher Derivative Flows, Bach Flow, Conformal Gravity, Wormhole Physics, and 2+1 Gravity.
+Semiconductor Materials and Thin film Technology Amorphous and Crystalline semiconductor materials – Devices and Characterization, Biosensors, Semiconductor based gas sensors, low dielectric constant thin films for ULSI device applications, Surface Science.
+Soft Matter Physics Physics of granular media, Granular Electrostatics, Chaotic advection, Modelling of Traffic flow, Jamming-Unjamming transition, and Pattern formation in fluids.
+SAS - Maths
+The key research areas of the Division of Mathematics are:
+Computational Fluid Dynamics Optimization and data analysis Graph Theory and Networking Applied Algebra and Analysis Mathematical Modelling Transform Techniques Non linear differential equations
+SAS - Chemistry
+Hypervalent chemistry, stereochemistry, antidiabetic agent synthesis, synthesis of natural product derivatives, Polymer Chemistry – Controlled radical polymerization techniques – Design and development of functional polymethacrylates, polymethacrylamides for applications like drug delivery, imaging and biomolecules sensing. Organic layered polymer nano composites, development of membranes for waste water treatment. Nano clays for industrial applications. Peptide Chemistry, synthetic dye chemistry, synthesis and modification of porphyrins, Colloidal Ag and Au Nanoparticles and their applications. Coordination chemistry – Transition metal complexes, Synthesis of Volatile complexes-Thermal characterization, Vapour pressure measurements, Evaluation of thermodynamic parameters, Chemical Vapour Deposition (CVD), thin films and its applications. Solid state chemistry for functional materials intended to electronic applications. Thin film deposition, sol-gel chemistry, pulsed laser deposition and nano-fluid synthesis. Solid-state refrigeration, ferroelectric and energy storage devices (capacitors). Thermoelectric materials for waste heat recovery. Nano composites of oxides and chalcogenides with graphene for hydrogen evolution by water splitting. Synthesis of nanoparticles for SERS applications, development of nanostructured carbon and silica materials, advanced nano catalysis for fine chemicals synthesis, Photo catalysis (Solar fuel and Dye degradation), Bio-molecular adsorption on porous solids (Vitamins, Proteins, and Amino acids) . Computational material science and chemistry of inorganic complexes.
+SCOPE
+Theoretical Computer Science
+Data Analytics
+Semantic Web Technology
+Computational Intelligence
+Network and Security
+Digital Image and Video Processing
+Cloud Computing
+Software Engineering
+Computer Architecture & Embedded System
+E-Learning
+SELECT
+Power Systems operation and control
+Smart grid technologies
+Power Electronics
+Applications of power electronics to Renewable Energy systems
+Electric drives and control
+Controller design using optimization techniques
+Nonlinear system and intelligent control techniques
+Process control and soft computing techniques.
+SENSE
+Embedded Systems Design
+Microwave and Photonics
+Nanotechnology
+Signal Processing
+VLSI Circuits and Devices.
+Wireless Communication and Networking
+SMEC
+Mechanical
+Design
+Thermal and Automotive
+Manufacturing
+Energy
+Mechatronics
+Nano-Materials
+SCE
+Nano materials for construction, recycling of waste materials
+Repair and strengthening
+Condition assessment
+Constructability analysis
+Fibre reinforced concrete
+Analysis and design of high rise buildings
+Surface and ground water modelling
+Numerical modelling
+RS and GIS-based spatial data analysis
+modeling and visualization
+Optimization algorithms in water resources
+Hydrologic modelling
+Irrigation and water resources management
+Soft computing applications in water resources engineering.
+Biological processes for treatment of wastewater/Industrial effluent
+Bio-solids treatment and management
+Nano-composites for environmental remediation
+Wastewater treatment and reuse
+VITBS
+Digital Marketing,
+Marketing Analytics
+Consumer Behaviour
+Capital Markets
+Finance
+HR
+Economics
+Systems
+Business Analytics
+Operations
+SSL
+English Language Teaching
+English Literature
+Post Colonial Literature and Linguistics
+Psychology
+Sociology
+VITSOL
+Constitution Law Federal issues in the Constitution-Centre and state relationship, Interstate resource disputes, financial relations between Centre and State Interstate river disputes- Judiciary
+International Law Third world Approaches to international Law, human rights and Humanitarian law, Law of Treaties – Settlement of Disputes,Law of the sea, International Environmental Law including Global warming – Air & Space Law,International Liability law: oil pollution, Nuclear and contamination of every kind-, Trans boundary water disputes, legal and regulatory framework for renewable energy, negotiations and diplomacy
+Corporate law Corporate governance, Corporate finance, Implementation of Companies Act 2013, Securities market, corporate social responsibility, human physiology and corporate frauds, liability of corporate, arbitration, IT and corporate governance, Social audit, tax evasion in corporate, investor protection
+Intellectual property rights Parallel Trade in Patented Pharmaceuticals, performers right , compulsory licensing of medicine, The Indian Patent (Amendments) Act and its Implications for World Pharmaceutical Trade, Patentability of Computer Software, Intellectual Property and Green Energy, bio technology, copyright in cyber space, trademark in internet
+VFIT
+Ph.D. Programme – VIT Fashion Institute of Technology (VFIT)
+The VIT Fashion Institute of Technology VIT offers a vibrant and rigorous Ph.D. programme designed to foster academic excellence, innovation, and research leadership in the field of fashion and textiles. With a focus on interdisciplinary learning and real-world impact, the programme provides scholars the opportunity to explore advanced research areas that address current and emerging challenges in the global fashion industry.
+To nurture a research-oriented mindset, the school offers access to state-of-the-art laboratories, advanced CAD software, prototyping equipment, digital printing studios, textile testing facilities, and a dedicated research resource center . These facilities are on par with international standards and support scholars in conducting in-depth experimental, analytical, and creative work.
+Ph.D. scholars are guided by highly qualified faculty members with specialized expertise in a wide spectrum of domains under fashion and textiles.
+The research programme encourages scholars to contribute original insights and solutions to contemporary issues in fashion and textiles. Scholars may pursue interdisciplinary collaborations and participate in funded research projects, and conferences.
+To date, the school has successfully produced a growing number of Doctoral graduates , with several scholars currently pursuing research in cutting-edge areas that reflect both industry relevance and social responsibility.
+The Ph.D. Programme at VFIT not only strengthens subject-matter expertise but also empowers scholars to become academic leaders, innovators, and changemakers in the global fashion landscape.
+The growth of research within the creative capacity has the following key purposes Fashion Technology Body Measurements Standardisation, Fabric Forecasting, Colour Forecasting, Garment Comfort, E-Garment, Smart Garment, SAM for Garment, Line Balancing Textile Technology Fabric Comfort, Smart Textiles, Phase Changing Material, Super Absorbent Fabric, Herbal Finished Garments,  Special Finishes (Micro and Nano Encapsulations), Biomaterial, Environmental impact of textile material, Pollution control.
+Fashion management Fashion retail, marketing and merchandising, craft management, consumer Behaviour, new product development, branding, advertising, entrepreneurship, visual Merchandising

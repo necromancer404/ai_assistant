@@ -1,0 +1,46 @@
+
+# **VIT Chennai – Full Overview (Plain Text Version)**
+
+Vellore Institute of Technology – Chennai Campus (VIT Chennai) is a private deemed-to-be university established in 2010. It is a part of the VIT group whose main campus is in Vellore. The Chennai campus is located on Vandalur–Kelambakkam Road in Tamil Nadu and spans approximately 192 acres. The institution is accredited with NAAC A++ and several programs hold NBA accreditation.
+
+VIT Chennai is regarded as one of the top emerging engineering institutions in South India. It is known for discipline, strong placement performance, industry collaboration, and technology-driven academics. The campus is part of the VIT group which is ranked among the top 10–20 engineering institutes in India (NIRF). Although rankings are for VIT as a whole, the Chennai campus is highly reputed and considered second only to VIT Vellore. The institute has over 300+ international MoUs for student semester-abroad programs (SAP), giving students global exposure. Admission is competitive and is mainly through the VITEEE entrance exam.
+
+VIT Chennai has multiple Schools of Study (SoS). These include the School of Electrical Engineering (SELECT), School of Computer Science and Engineering (SCOPE), School of Mechanical Engineering (SMEC), School of Electronics Engineering (SENSE), School of Law (VITSOL), VIT Business School (VITBS), and the School of Advanced Sciences (SAS), among others.
+
+The campus offers various undergraduate and postgraduate programs. At the B.Tech level, popular branches include Computer Science Engineering (Core) and specializations such as Artificial Intelligence and Machine Learning, Cyber Security, Internet of Things, Data Science, and Bioinformatics. Electronics and Communication Engineering is offered along with specializations, along with Mechanical, Electrical & Electronics, and Civil Engineering programs. Other programs include BA LLB, BBA LLB, MBA, M.Tech specializations, integrated M.Tech degrees, and PhD programs across disciplines.
+
+The campus provides modern academic facilities with smart classrooms and digitally-enabled teaching. It has specialized laboratories for AI, Machine Learning, Robotics, IoT, Blockchain, Cloud Computing, Cybersecurity, Electronics, VLSI, 5G and Communication Technologies, as well as mechanical and design labs. Incubation and innovation centers support student-driven projects and start-ups. The campus places strong emphasis on research, with Centres of Excellence in AI, Robotics, Energy, 5G, and Cybersecurity, along with funded projects from organizations like DRDO, ISRO, and DST. Students are encouraged to pursue patents and research publications.
+
+The institute has a well-organized hostel and residential facility for both boys and girls with air-conditioned and non-AC rooms in 2, 3, or 4-sharing options. The hostels include Wi-Fi, laundry services, indoor games, and dedicated study rooms. There is strict discipline in hostel timings and rules. The mess provides both vegetarian and non-vegetarian options with multiple menus.
+
+Campus life is supported by a variety of facilities such as sports grounds for outdoor games, indoor sports facilities, a gym and fitness center, multiple cafeterias and food courts, mini-shops, a medical center with ambulance service, ATMs, a salon, a stationery store, and laundry outlets.
+
+Placements at VIT Chennai are handled through the central placement system shared with VIT Vellore. The highest domestic packages often cross 40 LPA, with international packages sometimes going above 70 LPA depending on the year. The average package typically lies between 6 to 9 LPA. Major recruiters include Microsoft, Amazon, Nvidia, Qualcomm, Deloitte, PwC, TCS, Infosys, Morgan Stanley and others. Internship culture is strong, with many students doing 6-month internships in the final year.
+
+VIT Chennai has a vibrant student community with numerous clubs and events. There are technical clubs focused on AI, ML, cybersecurity, robotics, blockchain, and automotive innovations; entrepreneurship clubs like E-Cell; and cultural clubs like dance, music, fashion, and drama. Debate, quiz, Toastmasters, MUN, and various sports clubs are also active. Major events include Riviera (cultural fest) and various tech fests similar to TechnoVIT and GraVITas.
+
+Campus culture is known to be disciplined compared to many colleges and even more structured than VIT Vellore. There is a dress code for certain programs, especially in the first year. Attendance of 75% is mandatory, supported by biometric attendance systems. The campus follows a zero-tolerance policy towards ragging.
+
+Located in Chennai, the campus has a geographical advantage due to the presence of numerous IT companies, industries, and start-ups. It provides ample opportunities for industry interactions and internships. The campus is around 20–30 minutes from Tambaram railway station and lies along a well-connected route on the Vandalur-Kelambakkam Road.
+
+VIT Chennai is ideal for students seeking a structured, disciplined, and academically strong environment with an emphasis on technology, research, and placements. It especially suits students who want strong corporate opportunities, modern lab exposure, and a campus close to a major metropolitan city.
+
+courses offered:{
+ B.Tech.
+- M.Tech. (2 Yr)
+- Research (Ph.D. Jan 2026 Session)
+- B.Com. (Hons.)
+- B.Tech. Fashion Technology
+- Integrated M.Tech.
+- Integrated M.Sc
+B.Tech. Computer Science and Engineering
+- B.Tech. Computer Science and Engineering (Artificial Intelligence and Robotics)
+- B.Tech. Computer Science and Engineering (Data Science)
+- M.Tech. Computer Science and Engineering (2 Years)
+- M.Tech. CSE (Big Data Analytics) (2 Years)
+- M.Tech. Artificial Intelligence and Machine Learning (in collaboration with LTI Mindtree)
+- M.Tech. Artificial Intelligence and Data Science (in collaboration with LTI Mindtree)
+- M.Tech. (Software Engineering) (5 Year Integrated Programme)
+- M.Tech. Computer Science and Engineering (Data Science) (5 Year Integrated Programme)
+- It also offers Ph.D. research programmes.
+}
